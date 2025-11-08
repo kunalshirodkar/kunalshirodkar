@@ -45,7 +45,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 ## ⚙️ What I Work With  
 
 ### 📊 **Data Analysis & Visualization**  
-**Power BI** · **Tableau** · **Excel** · **DAX** · **SQL** · **Statistical Analysis**  
+**Power BI** · **Tableau** · **Excel** · **SQL** · **Statistical Analysis**  
 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
 
 ### 🏗️ **Data Engineering & Cloud**  
