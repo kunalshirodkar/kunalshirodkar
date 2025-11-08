@@ -11,28 +11,33 @@ Turning raw data into business outcomes through analytics, automation, and story
 ## 🧩 About Me  
 
 🎓 Graduate from **Syracuse University** with an **M.S. in Information Systems**  
-💼 4+ years of experience across **Healthcare, OTT Media, Finance, and Retail**  
+💼 4+ years of experience across **Finance, Healthcare, OTT Media, and Retail**  
 📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products** that drive better decisions.  
 🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation.  
 
 
-> “I believe great analytics not only answer questions — they create better ones.”
+> “I believe great analytics not only answer questions - they create better ones.”
 
 ---
 
 ## ⚙️ What I Work With  
 
-### **Data Analysis & Visualization**
-Power BI · Tableau · Excel · DAX · SQL · Statistical Analysis  
-*Focus: dashboard design, KPI modeling, forecasting, and self-service BI.*
+### 📊 **Data Analysis & Visualization**  
+**SQL** · **Power BI** · **Tableau** · **Python** ·  **Excel**  
+🎯 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
 
-### **Data Engineering & Cloud**
-SQL Server · Snowflake · SSIS · AWS (S3, Glue) · Azure (Data Factory, Cosmos DB)  
-*Focus: ETL pipelines, warehouse modeling, and performance optimization.*
+---
 
-### **Programming & Automation**
-Python (Pandas, Matplotlib, Seaborn) · R · Git · LLM/GenAI · JIRA · Confluence  
-*Focus: analytics scripting, AI-assisted automation, and workflow improvement.*
+### 🏗️ **Data Engineering & Cloud**  
+**SQL Server** · **Snowflake** · **AWS (S3, EC2, Quicksight, Redshift)** · **Azure (Cosmos DB, Cognitive Services)** · **SSIS** 
+⚙️ *Focus:* ETL pipelines, warehouse modeling, and performance optimization  
+
+---
+
+### 💻 **Programming & Automation**  
+**Python (Pandas, Matplotlib, Seaborn)** · **R** · **Git** · **LLM / GenAI** · **JIRA** · **Confluence**  
+🤖 *Focus:* Analytics scripting, AI-assisted automation, and workflow improvement  
+
 
 ---
 
