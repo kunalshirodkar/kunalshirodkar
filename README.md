@@ -5,7 +5,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ## 🧩 About Me  
 
@@ -16,7 +16,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 > “I believe great analytics not only answer questions — they create better ones.”
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ## 💼 Experience Highlights  
 
@@ -24,26 +24,26 @@ Turning raw data into business outcomes through analytics, automation, and story
 🧩 End-to-end analytics services: **SSIS ETL pipelines**, **SQL Server data warehouse**, **SSRS automated reports**, **Power BI visualizations**, and **SQL ad-hoc analysis**.  
 🧠 Leveraged **LLM + AI (Python)** for data cleaning, enhanced analytical decision-making, automated insight generation, and storytelling.  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ### 🏥 **Johnson & Johnson – Business Analyst (Regulatory Operations & Digital Innovation)**  
 🧬 Developed **EHR data products in Snowflake** using SQL and **Tableau dashboards** for regulatory submissions.  
 🤖 Applied **TAMR AI** to clean and unify data across global domains, improving compliance reporting and audit readiness.  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ### 🎬 **Hansa Cequity (MarTech) – Data Analyst**  
 🚀 Boosted engagement and revenue for India’s leading **DTH & OTT analytics firm** with **30+ apps and 50M+ subscribers**, building a **personalized recommendation model** on multi-TB data.  
 💡 Created **fraud detection** and **KYC root-cause** dashboards, and 📈 delivered **insurance marketing-campaign analytics** for cross-industry clients.  
 👥 Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT-product scaling.  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ### 💻 **NeoSoft Technologies – Software Engineer**  
 🧮 Developed **Spring Boot employee-management system** handling structured & unstructured data.  
 ⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking-workflow reliability**.  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ## ⚙️ What I Work With  
 
@@ -51,19 +51,19 @@ Turning raw data into business outcomes through analytics, automation, and story
 **Power BI** · **Tableau** · **Excel** · **DAX** · **SQL** · **Statistical Analysis**  
 🎯 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ### 🏗️ **Data Engineering & Cloud**  
 **SQL Server** · **Snowflake** · **SSIS** · **AWS (S3, Glue)** · **Azure (Data Factory, Cosmos DB)**  
 ⚙️ *Focus:* ETL pipelines, warehouse modeling, and performance optimization  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ### 💻 **Programming & Automation**  
 **Python (Pandas, Matplotlib, Seaborn)** · **R** · **Git** · **LLM / GenAI** · **JIRA** · **Confluence**  
 🤖 *Focus:* Analytics scripting, AI-assisted automation, and workflow improvement  
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ## 🧠 Featured Tech Stack  
 
@@ -77,7 +77,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 ![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
----
+<hr style="border:0.5px dashed #d0d7de;">
 
 ## 📫 Let’s Connect  
 
