@@ -1,6 +1,6 @@
 # Hey, I'm Kunal Ajit Shirodkar 👋  
 
-**Data Analyst | Business Intelligence | Data Product Developer**  
+**Data Analyst | Business Analyst | Business Intelligence**  
 Turning raw data into business outcomes through analytics, automation, and storytelling.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Shirodkar-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
@@ -10,10 +10,11 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ## 🧩 About Me  
 
-🎓 Graduate Student at **Syracuse University**, pursuing an **M.S. in Information Systems** with a certificate in **Data Science**  
-💼 4 + years of experience across **Healthcare, OTT Media, Finance, and Retail**  
-📊 Passionate about **building scalable data pipelines**, designing **Power BI/Tableau dashboards**, and creating **data products** that improve decision-making.  
-🤖 Exploring **LLM-powered analytics** for automation, storytelling, and intelligent data insights.  
+🎓 Graduate from **Syracuse University** with an **M.S. in Information Systems**  
+💼 4+ years of experience across **Healthcare, OTT Media, Finance, and Retail**  
+📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products** that drive better decisions.  
+🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation.  
+
 
 > “I believe great analytics not only answer questions — they create better ones.”
 
