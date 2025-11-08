@@ -16,7 +16,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 🚀 Focused on leveraging **data-driven strategy** to enhance **growth, revenue, trust, and user experience**    
 🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation  
 
-> “I believe great analytics not only answer questions — they create better ones.”
+> “I believe great analytics not only answer questions - they create better ones.”
 
 ---
 
