@@ -35,7 +35,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 ---
 
 ### 🎬 **Hansa Cequity (MarTech) – Data Analyst**  
-🌐 India’s leading DTH & OTT analytics firm for **30+ apps and 50M+ subscribers**, built a **personalized recommendation model** on multi-TB data.  
+🌐 Boosted engagement and revenue for India’s leading DTH & OTT analytics firm for **30+ apps and 50M+ subscribers**, built a **personalized recommendation model** on multi-TB data.  
 💡 Created **fraud detection** and **KYC root cause** dashboards, and 📈 delivered **insurance marketing campaign analytics** for cross-industry clients.  
 👥 Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT product scaling.  
 
@@ -43,7 +43,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ### 💻 **NeoSoft Technologies – Software Engineer**  
 🧮 Developed **Spring Boot employee management system** handling structured & unstructured data.  
-⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking workflow reliability by 30%**.  
+⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking workflow reliability**.  
  
 
 
