@@ -3,7 +3,7 @@
 **Data Analyst | Business Analyst | Business Intelligence**  
 Turning raw data into business outcomes through analytics, automation, and storytelling.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Shirodkar-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
 
 
 ---
@@ -20,50 +20,32 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ---
 
-## ⚙️ What I Work With  
+## 💼 Experience Highlights  
 
-### 📊 **Data Analysis & Visualization**  
-**SQL** · **Power BI** · **Tableau** · **Python** ·  **Excel**  
-🎯 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
-
----
-
-### 🏗️ **Data Engineering & Cloud**  
-**SQL Server** · **Snowflake** · **AWS (S3, EC2, Quicksight, Redshift)** · **Azure (Cosmos DB, Cognitive Services)** · **SSIS** 
-⚙️ *Focus:* ETL pipelines, warehouse modeling, and performance optimization  
+### 🎓 **Syracuse University – Research Data Analyst**  
+🧩 End-to-end analytics services: **SSIS ETL pipelines**, **SQL Server data warehouse**, **SSRS automated reports**, **Power BI visualizations**, and **SQL ad-hoc analysis**.  
+🧠 Leveraged **LLM + AI (Python)** for data cleaning, enhanced analytical decision-making, automated insight generation, and storytelling.  
 
 ---
 
-### 💻 **Programming & Automation**  
-**Python (Pandas, Matplotlib, Seaborn)** · **R** · **Git** · **LLM / GenAI** · **JIRA** · **Confluence**  
-🤖 *Focus:* Analytics scripting, AI-assisted automation, and workflow improvement  
-
-
----
-
-## 🚀 Projects I'm Proud Of  
-
-### 🎬 **Tata Play Binge – OTT Recommendation Model**
-Personalized 50 M + user content journeys using clickstream and language preferences.  
-💡 Outcome: +25 % CTR | +20 % retention | $100 K annual vendor savings  
+### 🏥 **Johnson & Johnson – Business Analyst (Regulatory Operations & Digital Innovation)**  
+🧬 Developed **EHR data products in Snowflake** using SQL and **Tableau dashboards** for regulatory submissions.  
+🤖 Applied **TAMR AI** to clean and unify data across global domains, improving compliance reporting and audit readiness.  
 
 ---
 
-### 🏥 **Johnson & Johnson – Regulatory Data Product**
-Built Snowflake models & Tableau dashboards to monitor global submission KPIs.  
-⚙️ Outcome: Reduced reporting cycle delays by 20 % through standardized governance.  
+### 🎬 **Hansa Cequity (MarTech) – Data Analyst**  
+🌐 India’s leading DTH & OTT analytics firm for **30+ apps and 50M+ subscribers**, built a **personalized recommendation model** on multi-TB data.  
+💡 Created **fraud detection** and **KYC root cause** dashboards, and 📈 delivered **insurance marketing campaign analytics** for cross-industry clients.  
+👥 Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT product scaling.  
 
 ---
 
-### ⚽ **Football Pro Analytics**
-Engineered SQL & Tableau architecture for player performance and scouting insights.  
-📈 Outcome: Improved data processing efficiency by 35 % and reporting accuracy.  
+### 💻 **NeoSoft Technologies – Software Engineer**  
+🧮 Developed **Spring Boot employee management system** handling structured & unstructured data.  
+⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking workflow reliability by 30%**.  
+ 
 
----
-
-### ☁️ **Azure Feedback Analyzer**
-Deployed an NLP feedback app using Azure App Services + Cosmos DB + Cognitive Services.  
-📊 Outcome: Delivered sentiment dashboards for product teams to prioritize issues.  
 
 ---
 
@@ -91,8 +73,8 @@ Deployed an NLP feedback app using Azure App Services + Cosmos DB + Cognitive Se
 
 ## 📫 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Shirodkar-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar)  
-📧 **kunalashirodkar@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)  
+
 
 ---
 
