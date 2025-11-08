@@ -5,7 +5,6 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
 
-
 ---
 
 ## 🧩 About Me  
@@ -15,8 +14,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products** that drive better decisions.  
 🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation.  
 
-
-> “I believe great analytics not only answer questions - they create better ones.”
+> “I believe great analytics not only answer questions — they create better ones.”
 
 ---
 
@@ -35,17 +33,35 @@ Turning raw data into business outcomes through analytics, automation, and story
 ---
 
 ### 🎬 **Hansa Cequity (MarTech) – Data Analyst**  
-🌐 Boosted engagement and revenue for India’s leading DTH & OTT analytics firm for **30+ apps and 50M+ subscribers**, built a **personalized recommendation model** on multi-TB data.  
-💡 Created **fraud detection** and **KYC root cause** dashboards, and 📈 delivered **insurance marketing campaign analytics** for cross-industry clients.  
-👥 Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT product scaling.  
+🚀 Boosted engagement and revenue for India’s leading **DTH & OTT analytics firm** with **30+ apps and 50M+ subscribers**, building a **personalized recommendation model** on multi-TB data.  
+💡 Created **fraud detection** and **KYC root-cause** dashboards, and 📈 delivered **insurance marketing-campaign analytics** for cross-industry clients.  
+👥 Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT-product scaling.  
 
 ---
 
 ### 💻 **NeoSoft Technologies – Software Engineer**  
-🧮 Developed **Spring Boot employee management system** handling structured & unstructured data.  
-⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking workflow reliability**.  
- 
+🧮 Developed **Spring Boot employee-management system** handling structured & unstructured data.  
+⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking-workflow reliability**.  
 
+---
+
+## ⚙️ What I Work With  
+
+### 📊 **Data Analysis & Visualization**  
+**Power BI** · **Tableau** · **Excel** · **DAX** · **SQL** · **Statistical Analysis**  
+🎯 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
+
+---
+
+### 🏗️ **Data Engineering & Cloud**  
+**SQL Server** · **Snowflake** · **SSIS** · **AWS (S3, Glue)** · **Azure (Data Factory, Cosmos DB)**  
+⚙️ *Focus:* ETL pipelines, warehouse modeling, and performance optimization  
+
+---
+
+### 💻 **Programming & Automation**  
+**Python (Pandas, Matplotlib, Seaborn)** · **R** · **Git** · **LLM / GenAI** · **JIRA** · **Confluence**  
+🤖 *Focus:* Analytics scripting, AI-assisted automation, and workflow improvement  
 
 ---
 
@@ -63,18 +79,9 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ---
 
-## 📌 Experience Highlights  
-
-- **Research Analyst – Syracuse University** : Power BI dashboards, ETL pipelines, SQL optimization  
-- **Business Analyst – Johnson & Johnson** : Snowflake data products, Tableau governance dashboards  
-- **Data Analyst – Hansa Cequity** : OTT analytics & recommendation engine for 50 M users  
-
----
-
 ## 📫 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)  
-
 
 ---
 
