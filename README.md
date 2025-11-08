@@ -4,9 +4,7 @@
 Turning raw data into business outcomes through analytics, automation, and storytelling.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Shirodkar-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
-[![Gmail](https://img.shields.io/badge/Gmail-kunalashirodkar%40gmail.com-red?logo=gmail)](mailto:kunalashirodkar@gmail.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Dashboards-orange?logo=tableau)](https://public.tableau.com/app/profile/kunal.shiro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?logo=githubpages)](#)
+
 
 ---
 
