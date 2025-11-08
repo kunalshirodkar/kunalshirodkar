@@ -11,10 +11,10 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 🎓 Graduate from **Syracuse University** with an **M.S. in Information Systems**  
 💼 4+ years of experience across **Finance, Healthcare, OTT Media, and Retail**  
-📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products**.
-🧭 Skilled in **project management, consulting, stakeholder communication, and strategic problem-solving**.
-🚀 Focused on leveraging **data-driven strategy** to enhance **growth, revenue, trust, and user experience**.  
-🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation.  
+📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products**  
+🧭 Skilled in **project management, consulting, stakeholder communication, and strategic problem-solving**  
+🚀 Focused on leveraging **data-driven strategy** to enhance **growth, revenue, trust, and user experience**    
+🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation  
 
 > “I believe great analytics not only answer questions — they create better ones.”
 
