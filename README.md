@@ -12,6 +12,8 @@ Turning raw data into business outcomes through analytics, automation, and story
 🎓 Graduate from **Syracuse University** with an **M.S. in Information Systems**  
 💼 4+ years of experience across **Finance, Healthcare, OTT Media, and Retail**  
 📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products** that drive better decisions.  
+🧭 Skilled in **project management, consulting, stakeholder communication, and strategic problem-solving**, aligning analytics with business goals.  
+🚀 Focused on leveraging **data-driven strategy** to enhance **growth, revenue, trust, and user experience**.  
 🤖 Exploring **AI- and LLM-powered analytics** to enhance automation, storytelling, and intelligent insight generation.  
 
 > “I believe great analytics not only answer questions — they create better ones.”
@@ -21,21 +23,21 @@ Turning raw data into business outcomes through analytics, automation, and story
 ## 💼 Experience Highlights  
 
 ### 🎓 **Syracuse University – Research Data Analyst**  
-🧩 End-to-end analytics services: **SSIS ETL pipelines**, **SQL Server data warehouse**, **SSRS automated reports**, **Power BI visualizations**, and **SQL ad-hoc analysis**.  
-🧠 Leveraged **LLM + AI (Python)** for data cleaning, enhanced analytical decision-making, automated insight generation, and storytelling.  
+End-to-end analytics services: **SSIS ETL pipelines**, **SQL Server data warehouse**, **SSRS automated reports**, **Power BI visualizations**, and **SQL ad-hoc analysis**.  
+Leveraged **LLM + AI (Python)** for data cleaning, enhanced analytical decision-making, automated insight generation, and storytelling.  
 
 ### 🏥 **Johnson & Johnson – Business Analyst (Regulatory Operations & Digital Innovation)**  
-🧬 Developed **EHR data products in Snowflake** using SQL and **Tableau dashboards** for regulatory submissions.  
-🤖 Applied **TAMR AI** to clean and unify data across global domains, improving compliance reporting and audit readiness.  
+Developed **EHR data products in Snowflake** using SQL and **Tableau dashboards** for regulatory submissions.  
+Applied **TAMR AI** to clean and unify data across global domains, improving compliance reporting and audit readiness.  
 
 ### 🎬 **Hansa Cequity (MarTech) – Data Analyst**  
-🚀 Boosted engagement and revenue for India’s leading **DTH & OTT analytics firm** with **30+ apps and 50M+ subscribers**, building a **personalized recommendation model** on multi-TB data.  
-💡 Created **fraud detection** and **KYC root-cause** dashboards, and 📈 delivered **insurance marketing-campaign analytics** for cross-industry clients.  
-👥 Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT-product scaling.  
+Boosted engagement and revenue for India’s leading **DTH & OTT analytics firm** with **30+ apps and 50M+ subscribers**, building a **personalized recommendation model** on multi-TB data.  
+Created **fraud detection** and **KYC root-cause** dashboards, and 📈 delivered **insurance marketing-campaign analytics** for cross-industry clients.  
+Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project, and 🏆 recognized as **Star Performer – 2022** for complete ownership of OTT-product scaling.  
 
 ### 💻 **NeoSoft Technologies – Software Engineer**  
-🧮 Developed **Spring Boot employee-management system** handling structured & unstructured data.  
-⚙️ Implemented **Agile & SDLC** practices to enhance delivery and **boost banking-workflow reliability**.  
+Developed **Spring Boot employee-management system** handling structured & unstructured data.  
+Implemented **Agile & SDLC** practices to enhance delivery and **boost banking-workflow reliability**.  
 
 ---
 
@@ -43,15 +45,15 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ### 📊 **Data Analysis & Visualization**  
 **Power BI** · **Tableau** · **Excel** · **DAX** · **SQL** · **Statistical Analysis**  
-🎯 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
+*Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
 
 ### 🏗️ **Data Engineering & Cloud**  
 **SQL Server** · **Snowflake** · **SSIS** · **AWS (S3, Glue)** · **Azure (Data Factory, Cosmos DB)**  
-⚙️ *Focus:* ETL pipelines, warehouse modeling, and performance optimization  
+*Focus:* ETL pipelines, warehouse modeling, and performance optimization  
 
 ### 💻 **Programming & Automation**  
 **Python (Pandas, Matplotlib, Seaborn)** · **R** · **Git** · **LLM / GenAI** · **JIRA** · **Confluence**  
-🤖 *Focus:* Analytics scripting, AI-assisted automation, and workflow improvement  
+*Focus:* Analytics scripting, AI-assisted automation, and workflow improvement  
 
 ---
 
