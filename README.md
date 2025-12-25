@@ -49,7 +49,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 *Focus:* Dashboard design, KPI modeling, forecasting, and self-service BI  
 
 ### 🏗️ **Data Engineering & Cloud**  
-**SQL Server** · **Snowflake** · **SSIS** · **AWS (S3, Glue)** · **Azure (Data Factory, Cosmos DB)**  
+**SQL Server** · **Snowflake** · **SSIS** · **AWS (S3, EC2, Redshift, Lambda, Glue)** · **Azure (Data Factory, AI Cognitive Services, Cosmos DB)**  
 *Focus:* ETL pipelines, warehouse modeling, and performance optimization  
 
 ### 💻 **Programming & Automation**  
