@@ -22,7 +22,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ## 💼 Professional Experience Highlights
 
-### 🏥 **Cigna Healthcare — Data Analyst**
+### 🏥 **Cigna Healthcare - Data Analyst**
 ◆ Built KPI frameworks for member engagement, preventive care, and activity tracking using EHR data.  
 ◆ Performed large-scale **EDA in Python & SQL (Snowflake)** to drive measurable health outcomes.  
 ◆ Developed **Tableau dashboards** that reduced reporting cycles from weeks to days.  
