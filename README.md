@@ -20,11 +20,14 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ---
 
-## 💼 Experience Highlights  
+## 💼 Professional Experience Highlights
 
-### 🎓 **Syracuse University – Research Data Analyst**  
-◆ End-to-end analytics services: **SSIS ETL pipelines**, **SQL Server data warehouse**, **SSRS automated reports**, **Power BI visualizations**, and **SQL ad-hoc analysis**.  
-◆ Leveraged **LLM + AI (Python)** for data cleaning, enhanced analytical decision-making, automated insight generation, and storytelling.  
+### 🏥 **Cigna Healthcare — Data Analyst**
+◆ Built KPI frameworks for member engagement, preventive care, and activity tracking using EHR data.  
+◆ Performed large-scale **EDA in Python & SQL (Snowflake)** to drive measurable health outcomes.  
+◆ Developed **Tableau dashboards** that reduced reporting cycles from weeks to days.  
+◆ Designed AWS-based data pipelines (Lambda, Glue, S3) for HIPAA-compliant analytics.  
+◆ Supported predictive and A/B testing initiatives to improve participation and retention.  
 
 ### 🏥 **Johnson & Johnson – Business Analyst (Regulatory Operations & Digital Innovation)**  
 ◆ Developed **EHR data products in Snowflake** using SQL and **Tableau dashboards** for regulatory submissions.  
