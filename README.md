@@ -10,7 +10,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 ## 🧩 About Me  
 
 🎓 Graduate from **Syracuse University** with an **M.S. in Information Systems**  
-💼 4+ years of experience across **Finance, Healthcare, OTT Media, and Retail**  
+💼 5+ years of experience across **Finance, Healthcare, OTT Media, and Retail**  
 📊 Passionate about **designing insightful dashboards**, building **scalable data pipelines**, and developing **data products**  
 🧭 Skilled in **project management, consulting, stakeholder communication, and strategic problem-solving**  
 🚀 Focused on leveraging **data-driven strategy** to enhance **growth, revenue, trust, and user experience**    
@@ -22,7 +22,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 
 ## 💼 Professional Experience Highlights
 
-### 🏥 **Cigna Healthcare – Data Analyst**
+### 🏥 **Rochester Regional Health – Senior Data Analyst**
 ◆ Built KPI frameworks for member engagement, preventive care, and activity tracking using EHR data.  
 ◆ Performed large-scale **EDA in Python & SQL (Snowflake)** to drive measurable health outcomes.  
 ◆ Developed **Tableau dashboards** that reduced reporting cycles from weeks to days.  
