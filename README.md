@@ -1,6 +1,6 @@
 # Hey, I'm Kunal Ajit Shirodkar 👋  
 
-**Data Analyst | Business Analyst | Business Intelligence**  
+**Senior Data Analyst | Business Analyst | Product Analyst| Business Intelligence**  
 Turning raw data into business outcomes through analytics, automation, and storytelling.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kunal-shirodkar/)
