@@ -37,7 +37,7 @@ Turning raw data into business outcomes through analytics, automation, and story
 ◆ Boosted engagement and revenue for India’s leading **DTH & OTT analytics firm** with **30+ apps and 50M+ subscribers**, building a **personalized recommendation model** on multi-TB data.  
 ◆ Created **fraud detection model** and **KYC root-cause** dashboards, and delivered **insurance marketing-campaign analytics**.  
 ◆ Led an **8-member team** on TRAI’s **National Tariff Order (90-day SLA)** project.  
-🏆 recognized as **Star Performer – 2022** for complete ownership of OTT-product scaling.  
+🏆 **Star Performer – 2022** for complete ownership of OTT-product scaling.  
 
 ### 💻 **NeoSoft Technologies – Software Engineer**  
 ◆ Developed **Spring Boot employee-management system** handling structured & unstructured data.  
